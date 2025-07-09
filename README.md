@@ -1,6 +1,6 @@
 # Privacy Policy for SnapCal
 
-**Effective Date:** [Date]
+**Effective Date:** 2025-07-09
 
 ## Introduction
 
@@ -73,12 +73,6 @@ We may update this Privacy Policy occasionally. Any changes will be reflected in
 
 If you have questions about this Privacy Policy, please contact us at:
 - Email: support@snapcalendar.app
-
-## Data Processing Location
-
-Data processing occurs:
-- **Locally**: On your device for app functionality
-- **OpenAI Servers**: For AI image processing (subject to OpenAI's privacy practices)
 
 ---
 
